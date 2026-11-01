@@ -1,86 +1,61 @@
-<h1 align="center">Olá 👋, eu sou Gustavo Alves Lima</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Desenvolvedor+Front-end+em+forma%C3%A7%C3%A3o;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;HTML+%7C+CSS+%7C+JavaScript;Buscando+est%C3%A1gio+em+Front-end" alt="Typing SVG" />
-</p>
+# Gustavo Alves Lima
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-alves-lima-9442973ba">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://glzada240hz-commits.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20site-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/glzada240hz-commits">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+**Desenvolvimento Front-end · Interfaces web · Soluções digitais**
+
+Estudante de Análise e Desenvolvimento de Sistemas, com foco em construir interfaces claras, responsivas e funcionais.
+
+[Portfólio](https://glzada240hz-commits.github.io/portfolio/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/gustavo-alves-lima-9442973ba) &nbsp; · &nbsp; [Projetos](https://github.com/glzada240hz-commits?tab=repositories)
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 💻 Desenvolvedor Front-end em formação
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 📚 Experiência prática com projetos reais usando HTML, CSS e JavaScript
-- 🎯 Buscando estágio para evoluir profissionalmente
-- ⚡ Foco em responsividade, DOM, localStorage e interfaces modernas
+Estou desenvolvendo minha trajetória em tecnologia por meio de estudo e projetos práticos. Meu foco está no desenvolvimento front-end com **HTML, CSS e JavaScript**, trabalhando com interfaces responsivas, manipulação do DOM e persistência de dados no navegador.
 
----
+Busco uma oportunidade de estágio em desenvolvimento para contribuir com projetos, aprender com a equipe e aprofundar minhas habilidades técnicas.
 
-## 🛠️ Tecnologias
+## Tecnologias e práticas
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
-</p>
+| Área | Conhecimentos em prática |
+| :--- | :--- |
+| Estrutura e apresentação | HTML, CSS e layouts responsivos |
+| Interatividade | JavaScript e manipulação do DOM |
+| Dados no navegador | Armazenamento local com localStorage |
+| Versionamento | Git e GitHub |
 
----
+## Projetos em destaque
 
-## 📂 Projetos em destaque
+### FinanceFlow
+Aplicação de controle financeiro com organização por categorias, cálculo de saldo e armazenamento local.
 
-### 💰 FinanceFlow
-Sistema de controle financeiro com categorias, saldo total automático e armazenamento local.  
-🔗 Demo:  
-https://glzada240hz-commits.github.io/financeflow/
+[Ver projeto](https://github.com/glzada240hz-commits/financeflow) · [Abrir demonstração](https://glzada240hz-commits.github.io/financeflow/)
 
-### ✅ TaskFlow
-Gerenciador de tarefas com adicionar, concluir, remover e salvar automaticamente.  
-🔗 Demo:  
-https://glzada240hz-commits.github.io/taskflow/
+### TaskFlow
+Gerenciador de tarefas com criação, conclusão e remoção de itens, com persistência no navegador.
 
-### 🧮 Calculadora
-Calculadora funcional com operações básicas, suporte ao teclado e layout responsivo.  
-🔗 Demo:  
-https://glzada240hz-commits.github.io/calculadora/
+[Ver projeto](https://github.com/glzada240hz-commits/taskflow) · [Abrir demonstração](https://glzada240hz-commits.github.io/taskflow/)
 
-### 🌐 Portfólio
-Meu portfólio profissional com meus projetos e links principais.  
-🔗 Demo:  
-https://glzada240hz-commits.github.io/portfolio/
+### Calculadora
+Calculadora com operações básicas, suporte ao teclado e interface responsiva.
 
----
+[Ver projeto](https://github.com/glzada240hz-commits/calculadora) · [Abrir demonstração](https://glzada240hz-commits.github.io/calculadora/)
 
-## 📊 Estatísticas
+### Portfólio
+Apresentação dos meus projetos, tecnologias e canais de contato.
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=glzada240hz-commits&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glzada240hz-commits&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+[Ver código](https://github.com/glzada240hz-commits/portfolio) · [Visitar portfólio](https://glzada240hz-commits.github.io/portfolio/)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glzada240hz-commits&theme=tokyonight&hide_border=true" />
-</p>
+## Foco de desenvolvimento
 
----
+- Aprofundar fundamentos de JavaScript e organização de código.
+- Melhorar a usabilidade, a responsividade e a acessibilidade das interfaces.
+- Evoluir os projetos com documentação clara e melhorias contínuas.
 
-## 🎯 Objetivo
+## Contato
 
-Conseguir uma oportunidade de estágio em Desenvolvimento Front-end para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções modernas e eficientes.
+Para oportunidades de estágio e conversas sobre projetos, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/gustavo-alves-lima-9442973ba).
 
----
-
-<p align="center">⭐ Sempre aprendendo e evoluindo</p>
