@@ -128,22 +128,6 @@ Repositório privado.
 
 <br />
 
-## 📈 Atividade de desenvolvimento
-
-<div align="center">
-
-<a href="https://github.com/glzada240hz-commits?tab=overview">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glzada240hz-commits&bg_color=080a0b&color=a1aaa5&line=b9f4c5&point=eef0ed&area=true&area_color=17221a&hide_border=true&custom_title=Atividade%20p%C3%BAblica%20no%20GitHub" width="100%" alt="Gráfico de atividade pública de Gustavo Alves Lima no GitHub. Consulte também o histórico pelos links abaixo." />
-</a>
-
-[**Ver o portfólio atualizado ↗**](https://glzada240hz-commits.github.io/portfolio/) · [Histórico do portfólio](https://github.com/glzada240hz-commits/portfolio/commits/main/) · [Todas as contribuições](https://github.com/glzada240hz-commits?tab=overview)
-
-</div>
-
-O portfólio consulta os commits públicos de Portfólio, FinanceFlow, TaskFlow e Calculadora. O gráfico acima acompanha a atividade pública por um serviço externo e pode apresentar atraso de atualização.
-
-<br />
-
 ## 📚 Próximos passos
 
 - Aprofundar JavaScript, TypeScript e organização de código.
