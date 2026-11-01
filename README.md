@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:22D3EE&height=190&section=header&text=Gustavo%20Alves%20Lima&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20software%20%7C%20Interfaces%20%7C%20Aplicativos&descSize=15&descAlignY=60" width="100%" alt="Gustavo Alves Lima — Desenvolvimento de software, interfaces e aplicativos" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:111318,100:242832&height=190&section=header&text=Gustavo%20Alves%20Lima&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20de%20software%20%7C%20Interfaces%20%7C%20Aplicativos&descSize=15&descAlignY=60" width="100%" alt="Gustavo Alves Lima — Desenvolvimento de software, interfaces e aplicativos" />
 
 <a href="https://github.com/glzada240hz-commits">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=22D3EE&center=true&vCenter=true&width=760&height=55&lines=Construindo+interfaces+e+solu%C3%A7%C3%B5es+digitais;Do+front-end+a+aplicativos+Windows;Aprendizado+cont%C3%ADnuo%2C+projetos+na+pr%C3%A1tica" alt="Construindo interfaces e soluções digitais. Do front-end a aplicativos Windows. Aprendizado contínuo e projetos na prática." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=A5B4FC&center=true&vCenter=true&width=760&height=55&lines=Construindo+interfaces+e+solu%C3%A7%C3%B5es+digitais;Do+front-end+a+aplicativos+Windows;Aprendizado+cont%C3%ADnuo%2C+projetos+na+pr%C3%A1tica" alt="Construindo interfaces e soluções digitais. Do front-end a aplicativos Windows. Aprendizado contínuo e projetos na prática." />
 </a>
 
 <p>
-  <a href="https://glzada240hz-commits.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Visitar portfólio" /></a>
-  <a href="https://www.linkedin.com/in/gustavo-alves-lima-9442973ba"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
-  <a href="https://github.com/glzada240hz-commits?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explorar projetos" /></a>
+  <a href="https://glzada240hz-commits.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A5B4FC" alt="Visitar portfólio" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-alves-lima-9442973ba"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=A5B4FC" alt="LinkedIn" /></a>
+  <a href="https://github.com/glzada240hz-commits?tab=repositories"><img src="https://img.shields.io/badge/PROJETOS-0D1117?style=for-the-badge&logo=github&logoColor=A5B4FC" alt="Explorar projetos" /></a>
 </p>
 
 **Estudante de Análise e Desenvolvimento de Sistemas**  
@@ -21,7 +21,9 @@ Interfaces claras, aplicações úteis e evolução por meio de projetos.
 
 ## 👨‍💻 Sobre mim
 
-Minha base está no desenvolvimento front-end com **HTML, CSS e JavaScript**. Estou ampliando meus projetos para sistemas de gestão, aplicativos móveis e ferramentas desktop, com atenção à experiência do usuário, documentação e validação.
+Minha base está no desenvolvimento front-end com **HTML, CSS e JavaScript**. Nos projetos mais recentes, estou aprendendo **TypeScript, React, Node.js, React Native, Expo, PostgreSQL e C#/.NET**, aplicando essas tecnologias em sistemas de gestão, aplicativos móveis e ferramentas Windows.
+
+Também utilizo **IA como apoio ao desenvolvimento e ao aprendizado**, para explorar soluções, compreender código e evoluir meus projetos.
 
 🎯 **Busco uma oportunidade de estágio em desenvolvimento**, para contribuir com projetos e aprender com uma equipe.
 
@@ -31,14 +33,19 @@ Minha base está no desenvolvimento front-end com **HTML, CSS e JavaScript**. Es
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git e GitHub" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git e GitHub" />
 
-**Base em prática:** interfaces responsivas · DOM · localStorage · versionamento
+**Fundamentos em prática:** HTML · CSS · JavaScript · Git · interfaces responsivas
+
+**Em aprendizado nos novos projetos:** TypeScript e desenvolvimento web, mobile e desktop
 
 <br />
 
-**Tecnologias presentes nos projetos em desenvolvimento**
+**Tecnologias que estou explorando nos projetos**
 
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" />
 <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=7AA2D6" alt="PostgreSQL" />
@@ -46,6 +53,14 @@ Minha base está no desenvolvimento front-end com **HTML, CSS e JavaScript**. Es
 <img src="https://img.shields.io/badge/.NET_%2F_WPF-161B22?style=flat-square&logo=dotnet&logoColor=A78BFA" alt=".NET e WPF" />
 
 </div>
+
+<br />
+
+## 🤖 Desenvolvimento assistido por IA
+
+Uso **Claude e ChatGPT/Codex** como ferramentas de apoio para prototipação, estudo de tecnologias, implementação, revisão e investigação de erros. Estou aprendendo a avaliar as sugestões, entender as decisões técnicas e validar os resultados com testes e documentação.
+
+O foco é transformar ideias em aplicações úteis e desenvolver autonomia técnica ao longo do processo.
 
 <br />
 
@@ -62,7 +77,7 @@ Aplicativo desktop com recomendações, histórico de alterações, backup e rev
 
 **C# · .NET · WPF**
 
-<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-164E63?style=flat-square&labelColor=0D1117" alt="Em desenvolvimento" />
+<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-282C3A?style=flat-square&labelColor=0D1117" alt="Em desenvolvimento" />
 
 Repositório privado. Em validação, ainda sem lançamento comercial.
 
@@ -74,9 +89,9 @@ Repositório privado. Em validação, ainda sem lançamento comercial.
 
 Sistema web com PDV, comandas, cozinha, entregas, caixa, estoque e relatórios.
 
-**React · Node.js · PostgreSQL**
+**TypeScript · React · Node.js · PostgreSQL**
 
-<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-164E63?style=flat-square&labelColor=0D1117" alt="Em desenvolvimento" />
+<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-282C3A?style=flat-square&labelColor=0D1117" alt="Em desenvolvimento" />
 
 Versão funcional em desenvolvimento; integrações em validação.
 
@@ -90,7 +105,9 @@ Versão funcional em desenvolvimento; integrações em validação.
 
 Plataforma em desenvolvimento para empresas de montagem e profissionais disponíveis, com aplicativos separados e fluxos de contratação por especialidade.
 
-<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-164E63?style=flat-square&labelColor=0D1117" alt="Em desenvolvimento" />
+**TypeScript · React Native · Expo**
+
+<img src="https://img.shields.io/badge/EM_DESENVOLVIMENTO-282C3A?style=flat-square&labelColor=0D1117" alt="Em desenvolvimento" />
 
 Repositório privado.
 
@@ -113,7 +130,9 @@ Repositório privado.
 
 ## 📚 Próximos passos
 
-- Aprofundar JavaScript e organização de código.
+- Aprofundar JavaScript, TypeScript e organização de código.
+- Evoluir em React, desenvolvimento mobile e integração com APIs.
+- Aprimorar o uso de IA com revisão crítica e validação das soluções.
 - Evoluir a acessibilidade e a usabilidade das interfaces.
 - Melhorar os projetos com testes, documentação e validação.
 
@@ -127,6 +146,6 @@ Aberto a oportunidades de estágio e conversas sobre desenvolvimento.
 
 [**Entre em contato pelo LinkedIn →**](https://www.linkedin.com/in/gustavo-alves-lima-9442973ba)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:22D3EE&height=95&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050608,50:111318,100:242832&height=95&section=footer" width="100%" alt="" />
 
 </div>
