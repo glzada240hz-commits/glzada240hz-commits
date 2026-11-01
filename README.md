@@ -2,7 +2,7 @@
 
 # Gustavo Alves Lima
 
-**Desenvolvimento Front-end · Interfaces web · Soluções digitais**
+**Desenvolvimento de software · Interfaces web · Aplicativos**
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em construir interfaces claras, responsivas e funcionais.
 
@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em construir inter
 
 ## Sobre mim
 
-Estou desenvolvendo minha trajetória em tecnologia por meio de estudo e projetos práticos. Meu foco está no desenvolvimento front-end com **HTML, CSS e JavaScript**, trabalhando com interfaces responsivas, manipulação do DOM e persistência de dados no navegador.
+Estou desenvolvendo minha trajetória em tecnologia por meio de estudo e projetos práticos. Minha base está no desenvolvimento front-end com **HTML, CSS e JavaScript**. Também estou ampliando meus projetos para sistemas de gestão, aplicativos móveis e ferramentas desktop, com atenção à usabilidade, documentação e validação.
 
 Busco uma oportunidade de estágio em desenvolvimento para contribuir com projetos, aprender com a equipe e aprofundar minhas habilidades técnicas.
 
@@ -28,6 +28,23 @@ Busco uma oportunidade de estágio em desenvolvimento para contribuir com projet
 | Versionamento | Git e GitHub |
 
 ## Projetos em destaque
+
+### Prumo — Otimização de PCs Windows
+Aplicativo desktop em desenvolvimento para diagnóstico e otimização geral do Windows, com recomendações, histórico de alterações, backup e reversão. Construído com C#, .NET e WPF. Em fase de validação; ainda não disponível comercialmente.
+
+**Status:** em desenvolvimento · Repositório privado.
+
+### Bar do Guto — Sistema de gestão
+Sistema web responsivo para operação de uma lanchonete: PDV, mesas e comandas, cozinha, entregas, caixa, estoque e relatórios. Interface em React e API em Node.js com PostgreSQL. Versão funcional em desenvolvimento, com integrações externas ainda em validação.
+
+[Ver projeto](https://github.com/glzada240hz-commits/Loja)
+
+### MONTA — Conexão entre empresas e profissionais
+Plataforma em desenvolvimento para conectar empresas de montagem a profissionais disponíveis, com aplicativos separados para empresas e profissionais e fluxos de contratação por especialidade.
+
+**Status:** em desenvolvimento · Repositório privado.
+
+### Projetos de fundamentos web
 
 ### FinanceFlow
 Aplicação de controle financeiro com organização por categorias, cálculo de saldo e armazenamento local.
