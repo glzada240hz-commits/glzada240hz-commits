@@ -34,10 +34,10 @@ Aplicativo desktop em desenvolvimento para diagnóstico e otimização geral do 
 
 **Status:** em desenvolvimento · Repositório privado.
 
-### Bar do Guto — Sistema de gestão
-Sistema web responsivo para operação de uma lanchonete: PDV, mesas e comandas, cozinha, entregas, caixa, estoque e relatórios. Interface em React e API em Node.js com PostgreSQL. Versão funcional em desenvolvimento, com integrações externas ainda em validação.
+### Sistema de Gestão para Alimentação
+Sistema web responsivo para gestão de estabelecimentos de alimentação: PDV, mesas e comandas, cozinha, entregas, caixa, estoque e relatórios. Interface em React e API em Node.js com PostgreSQL. Versão funcional em desenvolvimento, com integrações externas ainda em validação.
 
-[Ver projeto](https://github.com/glzada240hz-commits/Loja)
+**Status:** em desenvolvimento.
 
 ### MONTA — Conexão entre empresas e profissionais
 Plataforma em desenvolvimento para conectar empresas de montagem a profissionais disponíveis, com aplicativos separados para empresas e profissionais e fluxos de contratação por especialidade.
